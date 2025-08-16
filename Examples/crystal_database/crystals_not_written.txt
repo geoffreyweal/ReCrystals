@@ -1,0 +1,486 @@
+ABAGAM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABATUW: Error: Could not extract ABATUW from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): ABATUW is not in the database
+ABEQEF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABIGEY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABIXUE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABIYAL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABONIS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABOZUN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABUSID: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABUSUP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABUTAW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ABUTEA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ACEGIY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ACEGOE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ACEGUK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ACOVOF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ACUSEZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ACUSID: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ADAFAO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ADAFOC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ADEBAO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ADEBES: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ADEBIW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ADECIY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ADINAC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AFEVAL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AFOJUD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AFOXAX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AGABUG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AGEGUR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AHORAR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AHUBOW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AJAGAU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AJAREL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AJUDEO: Contains no coordinates.
+AJUGAN: Contains no coordinates.
+AJUGER: Contains no coordinates.
+AJUGUH: Contains no coordinates.
+AKECIE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AKIKIO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AKUMUR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AMASOX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AMASOX01: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AMASOX02: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AMINUG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AMOKIX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AMUJEY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ANANTH: Contains no coordinates.
+ANCTNB02: Contains no coordinates.
+ANTAGP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ANTCEN03: Contains no coordinates.
+ANTCEN18: Contains no coordinates.
+ANTCNI: Contains no coordinates.
+ANTCNI10: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ANTCYB01: Contains no coordinates.
+ANTCYB02: Contains no coordinates.
+ANTCYB03: Contains no coordinates.
+ANTCYB04: Contains no coordinates.
+ANTCYB05: Contains no coordinates.
+ANTCYB06: Contains no coordinates.
+ANTCYB07: Contains no coordinates.
+ANTHCR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ANTMEU02: Contains no coordinates.
+ANTPML02: Contains no coordinates.
+ANTRCA: Contains no coordinates.
+ANTRCB: Contains no coordinates.
+ANTXCR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ANTXOU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ANUNIJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ANUNOP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+APOJAT: Error: Could not extract APOJAT from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): APOJAT is not in the database
+APOJAT01: Error: Could not extract APOJAT01 from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): APOJAT01 is not in the database
+AQOXEL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AQUBIX: Contains no coordinates.
+ARABUT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AROBIU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AROBOA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ASARIW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ASOSAE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ASULEI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ASULUY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATARIW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATASAP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATAXEA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATAXIE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATAXOK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATAXUQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATEHUC: Contains no coordinates.
+ATIRIG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATOKEB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ATOWOX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVANEQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVANIU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVANOA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVEBIM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVEBOS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVERAV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVEREZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVERID: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVOZOD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVUPAJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AVUPEN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AWEYEI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AWEYIM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AWOYOA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AWOZAN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AXADOU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AXATUQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AXODUM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AXOFAU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AXUGOR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AYERUU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AYOSUF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+AZABOS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BABBIT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BABBUF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BABGEU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BACXOS: Contains no coordinates.
+BADFOB: Contains no coordinates.
+BADNIG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BADZOV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BAFKEC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BAHQOT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BALHIH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BALJAB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BALRIT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BAMFAW: Contains no coordinates.
+BARLEN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BATJUE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BATPOC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BATXAY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BATYEB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BATYEB01: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BAVDAF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BAVREZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BAYVAZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BAZSEE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEANTH: Contains no coordinates.
+BEANTR01: Contains no coordinates.
+BEBHAV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEBKEC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEBKIG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEBKOM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEBKUS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BECHEZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEDLUT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEFJOO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEHKIJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEHKOP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEPSAS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BERHUD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEWGAO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEWMEV: Contains no coordinates.
+BEXKAT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEXKEX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BEYFOC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIBBIA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIBBOG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIBCAT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIBCEU: Contains no coordinates.
+BIBCIY: Contains no coordinates.
+BIBCOE: Contains no coordinates.
+BIBCUK: Contains no coordinates.
+BIBCUN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIBCUN01: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BICBOE: Contains no coordinates.
+BIDRAH: Contains no coordinates.
+BIHNOX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIHNUD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIHPEP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BILJEM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BILQAO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BILQES: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIQBIP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIQBOV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIQXEE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIRTAA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIRTII: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BIYNEC: Contains no coordinates.
+BIZLOO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BNPYRE01: Contains no coordinates.
+BNPYRE02: Contains no coordinates.
+BNPYRE03: Contains no coordinates.
+BOCFAD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOCFOR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOCFUX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOCGUY: Error: Could not extract BOCGUY from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): BOCGUY is not in the database
+BOCHAF: Error: Could not extract BOCHAF from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): BOCHAF is not in the database
+BOFSAT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOFSIB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOFSOH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOFSUN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOFTAU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BONJEW: Contains no coordinates.
+BONXUA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BONYAH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BONYEL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOPDOC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOQJEZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOQYIR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BORYAL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOSNED: Contains no coordinates.
+BOSNIH: Contains no coordinates.
+BOTXUG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOTYAN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOTYER: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOTYIV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOWPIN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOYXIZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOYXOF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BOYXUL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BRMANC02: Contains no coordinates.
+BRMANC03: Contains no coordinates.
+BUCKUF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUGVIK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUGVOQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUGWUY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUJMEZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUJVEK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUJVIO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUKLOI: Contains no coordinates.
+BULLIE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BULLOK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BULLUQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUPZET: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUPZIX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUPZOD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUQMUY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUVGEF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUVGEH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUWBIE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUWBOK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BUXDAA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+BZANTC: Contains no coordinates.
+BZAPMA: Contains no coordinates.
+BZATNB01: Contains no coordinates.
+BZATNB10: Contains no coordinates.
+CAFFOI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAFFUO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAFGAV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAFTOV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAHFUQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAHGAX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAHGEB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAHGIF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAHGOL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAHREK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAHRIO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAMJUZ: Contains no coordinates.
+CAMLAG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CANRUH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CANSAO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CANSES: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAPZOJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAPZUP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CARXEB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CARXIF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAXNEY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAXNIC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAXNOI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAZMUO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CAZNAV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CECVIR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CEDKEC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CEMREU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CESGAL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CETEAN: Contains no coordinates.
+CEXPUS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CEXQAZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CEXQED: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CEXQIH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CEZPUV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CILMOA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CILMUG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CIMKUH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CINPAQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CIRJET: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CIRJIX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CIRVEG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CITBOX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CITBUD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CIVMOJ: Contains no coordinates.
+CIYFAU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CIYFEY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+CUHXIO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+DAKFUU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+DAPLAL: Error: Could not extract DAPLAL from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): DAPLAL is not in the database
+DAPNOB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+DAYVEH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+DAZFIX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+DAZFOD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+DAZFUJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+DESCUZ: Contains no coordinates.
+DIPQEB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+EDOGIP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+EDOGOV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+EMUFOK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+EMUGEB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+EXEVOT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+EZETUA: Contains no coordinates.
+FAHFUT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+FAHGAA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+FAKZIC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+FAVPEZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+FAWZUC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+FAXBAL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+FAXBEP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+FEFTIW: Contains no coordinates.
+FERDUB: Contains no coordinates.
+FERFAJ: Contains no coordinates.
+FOFWUV: Error: Could not extract FOFWUV from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): FOFWUV is not in the database
+FOFXAC: Error: Could not extract FOFXAC from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): FOFXAC is not in the database
+FOPZOB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GACSOU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAHJIM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAHJOS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAVTAA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAVTEE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAVTII: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAVTOO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAVTUU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAVVAC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAXCUD: Contains no coordinates.
+GAXLOG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GAXZEO: Error: Could not extract GAXZEO from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): GAXZEO is not in the database
+GERBEL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GISCUJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GIWSOX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GOHDUD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GOHFAL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+GOHFEP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+HAFLIN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+HAXDOD: Contains no coordinates.
+IKUYOE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ILIYAE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+IVACOY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+JAJCOM: Contains no coordinates.
+JAXSAF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+JAXSEJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+JOPDOK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KAPKUL: Contains no coordinates.
+KAXZOB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KAYDIB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KAYDOH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KAYDUN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KAYFAV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KAYFEZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KEBFUS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KIGRUP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+KUFNAD: Contains no coordinates.
+LANLEV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+LANLIZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+LAYQIP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+LELFIS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+LUQNOA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+LUQNUG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+MAMWEG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+MEBYOL: Error: Could not extract MEBYOL from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): MEBYOL is not in the database
+MEJQUP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+MURLIX: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NACNTE01: Contains no coordinates.
+NAGTIC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NAGTOI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NAPPYR01: Contains no coordinates.
+NAPPYR02: Contains no coordinates.
+NAZJIK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NAZJOQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NAZJUW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NAZKAD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NDTTCQ: Contains no coordinates.
+NEPCUH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NESXOB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NEXDOM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NIGLOF: Contains no coordinates.
+NIMDAQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NIMTUA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NPCTHI: Contains no coordinates.
+NPDTOL01: Contains no coordinates.
+NPHBCU: Contains no coordinates.
+NPHBCU10: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NUPPOG: Contains no coordinates.
+NURMEV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NURMIZ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+NURMOF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OHIMAW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OJERIF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OJEROL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OJERUR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OJESAY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ONACIR: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OVOWON: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OVOWUT: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OWIRAO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OWUXEL02: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+OWUXIP02: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PEFGUC: Contains no coordinates.
+PENCEN16: Contains no coordinates.
+PIGDOA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PIGDUG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PIGFAO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PIGFES: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PIGFIW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PIGFOC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PINSAI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PINZOB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PIWHUB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+PUJDEG: Error: Could not extract PUJDEG from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): PUJDEG is not in the database
+PUJDOQ: Error: Could not extract PUJDOQ from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): PUJDOQ is not in the database
+PUJFOS: Error: Could not extract PUJFOS from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): PUJFOS is not in the database
+PUJGAF: Error: Could not extract PUJGAF from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): PUJGAF is not in the database
+PUJGEJ: Error: Could not extract PUJGEJ from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): PUJGEJ is not in the database
+PUJGEJ01: Error: Could not extract PUJGEJ01 from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): PUJGEJ01 is not in the database
+PUJGOT: Error: Could not extract PUJGOT from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): PUJGOT is not in the database
+QEQWAN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+QEQWER: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+QEQWIV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+QEQWOB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+QIFSAB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+QIFSEF: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+QIFSIJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+QIFSOP: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+QQQCIG: Contains no coordinates.
+QQQCIG02: Contains no coordinates.
+QQQCIG03: Contains no coordinates.
+QQQCIG12: Contains no coordinates.
+RETRUG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+RETSAN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+RETSER: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ROLFIK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ROLFOQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ROLPAM: Contains no coordinates.
+ROLPEQ: Contains no coordinates.
+RUVXAK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SABMIV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SABMOB: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SABMUH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SEBREA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SETVAQ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SETVEU: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SOYCOB: Error: Could not extract SOYCOB from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): SOYCOB is not in the database
+SOYRUW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SOYRUW01: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SOYRUW02: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+SUSYOV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+TECKUH10: Contains no coordinates.
+TEKBES: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+TETCEN02: Contains no coordinates.
+TETTRI12: Contains no coordinates.
+TEWYEC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+TOJKOU: Contains no coordinates.
+TSETRC: Contains no coordinates.
+TSETRC01: Contains no coordinates.
+TSETRI: Contains no coordinates.
+UMUTIH: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+USOPAW: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+USOPEA: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UTARUD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UTASAK: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UTASEO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UTASIS: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UTASOY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UTATAL: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UTUBUJ: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UWAHIM: Error: Could not extract UWAHIM from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): UWAHIM is not in the database
+UWIZUY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+UWOBAM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+VAGTUV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+VAHVEI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+VUVMAD: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+WEBXUA: Error: Could not extract WEBXUA from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): WEBXUA is not in the database
+WOLGEM: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+WOTDUG: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+XAWTUN: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+XAZBUY: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+XUKJOC: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+XUKJUI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+YARNAI: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+YASTOE: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+YUCFIO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ZAGMOJ10: Contains no coordinates.
+ZAWZUV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ZEBJAV: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ZEWBIP: Contains no coordinates.
+ZOPTEG: Error: Could not extract ZOPTEG from CCDC Database --> Error Message: DatabasePool::entry( DatabaseEntryIdentifier )(): ZOPTEG is not in the database
+ZUBGIO: Is either polymeric, organometallic (or otherwise contains a metal), or else is not purely organic.
+ZZZDKE: Contains no coordinates.
