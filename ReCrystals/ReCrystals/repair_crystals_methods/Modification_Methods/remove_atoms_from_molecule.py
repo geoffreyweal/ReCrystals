@@ -123,7 +123,6 @@ def remove_atoms_from_molecule(molecule_to_remove_atoms_from, atoms_to_remove, r
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 from networkx import connected_components
-from ase.visualize import view
 def check_if_molecule_if_fully_connected(molecule, molecule_graph, start_of_to_string):
 	"""
 	This method is designed to determine if the molecule is fully connected. 
@@ -151,9 +150,7 @@ def check_if_molecule_if_fully_connected(molecule, molecule_graph, start_of_to_s
 		to_string += 'Check this.\n'
 		
 		# 2.2: Print the error message and show the molecule. 
-		view(molecule)
 		print(to_string)
-		import pdb; pdb.set_trace()
 		raise Exception(to_string)
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 

@@ -114,8 +114,6 @@ def add_edges_instruction(instruction, molecules, molecule_graphs):
 				to_string += f'Edge input with problem: {edge_input}\n'
 				to_string += f'Full Instruction: {instruction}\n'
 				to_string += 'Check this.'
-				from ase.visualize import view
-				view(molecule)
 				raise Exception(to_string)
 
 			# 10.4.4: Get the original atom index.

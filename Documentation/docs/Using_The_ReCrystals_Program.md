@@ -17,7 +17,7 @@ To use the ``get_molecules`` module, type the following into your terminal:
 cd path_to_crystal_database
 
 # Second, run the get_molecules program:
-SUMELF get_molecules crystal_database
+sumelf get_molecules crystal_database
 ```
 
 This will separate the crystal into its individual molecules, and save them as individual ``xyz`` file in folder called crystal_database_molecules. You can view these molecules using your favourite GUI viewer, mine is ``ase gui`` ([click here for more about ``ase gui``](https://wiki.fysik.dtu.dk/ase/ase/gui/basics.html)).
@@ -67,7 +67,7 @@ The following describe the settings for each instruction action:
 
 This action will remove edges from a molecule from the crystal. This is required if the original crystal structure contains incorrect bonds in a molecule. The parameters for this action are:
 
-* `molecule` (``int``) [*Required*]: This is the molecule you want to add edges to in the crystal. The names of the molecules are given by the ``SUMELF get_molecules`` program. 
+* `molecule` (``int``) [*Required*]: This is the molecule you want to add edges to in the crystal. The names of the molecules are given by the ``sumelf get_molecules`` program. 
 * ``edges`` (``list`` of tuples) [*Required*]: This is the list of edges you want to remove from the molecule of interest. 
 
 ```python title="Example of the remove_edges action"
@@ -78,7 +78,7 @@ repair_crystals_instructions['CAMKEK'] = [{'action': 'remove_edges', 'molecule':
 
 This action will add edges to a molecule from the crystal. This is required if the original crystal structure did not indicate there was a bond between atoms in the molecule. The parameters for this action are:
 
-* `molecule` (``int``) [*Required*]: This is the molecule you want to add edges to in the crystal. The names of the molecules are given by the ``SUMELF get_molecules`` program. 
+* `molecule` (``int``) [*Required*]: This is the molecule you want to add edges to in the crystal. The names of the molecules are given by the ``sumelf get_molecules`` program. 
 * ``edges`` (``list`` of tuples) [*Required*]: This is the list of edges to add to the molecule of interest. This is given as a tuple containing the two indices of the atoms you want to connnect, along with the bond information (``bond_info``). If the bond information is not given, this will not be supplied to the edge. This may cause issues by not entering the ``bond_info``, so it is recommended to do so. 
 
 ```python title="Example of the add_edges action"
@@ -96,7 +96,7 @@ This action will update the bond information (``bond_info``) of the edges of int
 
 The parameters for this action are:
 
-* `molecule` (``int``) [*Required*]: This is the molecule you want to update the edges to in the crystal. The names of the molecules are given by the ``SUMELF get_molecules`` program. 
+* `molecule` (``int``) [*Required*]: This is the molecule you want to update the edges to in the crystal. The names of the molecules are given by the ``sumelf get_molecules`` program. 
 * ``edges`` (``list`` of tuples) [*Required*]: This is the list of edges you want to update. This is given as a tuple containing the two indices of the atoms you want to connnect, along with the bond information (``bond_info``). If the bond information is not given, this will not be supplied to the edge. This may cause issues by not entering the ``bond_info``, so it is recommended to do so. 
 
 ```python title="Example of the add_edges action"
@@ -108,7 +108,7 @@ repair_crystals_instructions['CAMKEK'] = [{'action': 'update_edges', 'molecule':
 
 This action will remove molecules from the crystal. The parameters for this action are:
 
-* `molecules` (int or list) [Required]: These are the names of the molecule you want to remove from the crystal. The names of the molecules are given by the ``SUMELF get_molecules`` program. 
+* `molecules` (int or list) [Required]: These are the names of the molecule you want to remove from the crystal. The names of the molecules are given by the ``sumelf get_molecules`` program. 
 
 ```python title="Example of the remove_molecules action"
 repair_crystals_instructions['AFUZIN'] = [{'action': 'remove_molecules', 'molecules': 3}]
@@ -118,7 +118,7 @@ repair_crystals_instructions['AFUZIN'] = [{'action': 'remove_molecules', 'molecu
 
 This action will remove atoms in a molecule from the crystal. The parameters for this action are:
 
-* `molecule` (``int``) [*Required*]: This is the molecule you want to remove atoms from in the crystal. The names of the molecules are given by the ``SUMELF get_molecules`` program. 
+* `molecule` (``int``) [*Required*]: This is the molecule you want to remove atoms from in the crystal. The names of the molecules are given by the ``sumelf get_molecules`` program. 
 * ``atoms`` (``int`` or ``list``) [*Required*]: This is the list of atom indices you want to remove from the molecule of interest. This can be given as an ``int`` or a ``list`` of indices.
 * ``remove_attached_hydrogens`` (``bool.``) [*Optional*]: If this is set to ``True``, any hydrogens that are attached to atoms you want to remove will also be removed. If ``False``, attached hydrogen will not be removed automatically. Default: ``True``.
 * ``create_new_molecules`` (``bool.``) [*Optional*]: This indicates if you are happy if two molecules are created when you split a molecule into two or more pieces by removing atoms from the molecule. 
@@ -131,7 +131,7 @@ repair_crystals_instructions['ARUJOP'] = [{'action': 'remove_atoms', 'molecule':
 
 This action will move atoms in a molecule. The parameters for this action are:
 
-* `molecule` (``int``) [*Required*]: This is the molecule you want to move atoms within. The names of the molecules are given by the ``SUMELF get_molecules`` program. 
+* `molecule` (``int``) [*Required*]: This is the molecule you want to move atoms within. The names of the molecules are given by the ``sumelf get_molecules`` program. 
 * ``atoms`` (``dict.``) [*Required*]: This dictionary contains the atom indices you want to move, along with the positions you want to move the atoms to. 
 
 ```python title="Example of the move_atom_to action"
