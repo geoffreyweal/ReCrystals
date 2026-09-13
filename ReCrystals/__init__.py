@@ -1,7 +1,7 @@
 # The information about the ReCrystals program
 
 __name__    = 'ReCrystals'
-__version__ = '0.01'
+__version__ = '0.2.0'
 __author__  = 'Dr. Geoffrey Weal, Dr. Chayanit Wechwithayakhlung, Dr. Daniel Packwood, Dr. Paul Hume, Prof. Justin Hodgkiss'
 
 import sys

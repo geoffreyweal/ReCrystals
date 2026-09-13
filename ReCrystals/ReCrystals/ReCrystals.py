@@ -35,7 +35,7 @@ def Repair_Crystals(repair_crystals_instructions):
 
     # Second, indicate if you have the files and fodlers necessary for running this program
     if not os.path.exists(ACSD_crystal_database_foldername):
-        exit('Error: You need a folder called '+str(path_to_repair_crystals_input_file)+' that contains all the crystal files made by the "ACSD run" command.')
+        exit('Error: You need a folder called '+str(path_to_repair_crystals_input_file)+' that contains all the crystal files made by the "acsd run" command.')
 
     # Third, create the logfile.
     import logging
