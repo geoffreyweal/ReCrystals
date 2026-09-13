@@ -2,7 +2,7 @@
 
 __name__    = 'ReCrystals'
 __version__ = '0.2.0'
-__author__  = 'Dr. Geoffrey Weal, Dr. Chayanit Wechwithayakhlung, Dr. Daniel Packwood, Dr. Paul Hume, Prof. Justin Hodgkiss'
+__author__  = 'Dr. Geoffrey Weal, Dr. Chayanit Wechwithayakhlung, Assoc. Prof. Daniel Packwood, Dr. Paul Hume, Prof. Justin Hodgkiss'
 
 import sys
 from importlib.util import find_spec
