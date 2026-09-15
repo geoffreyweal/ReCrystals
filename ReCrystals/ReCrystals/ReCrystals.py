@@ -78,7 +78,7 @@ def Repair_Crystals(repair_crystals_instructions):
         crystal = read_crystal(filepath)
 
         # 6.4: Get the graph of the crystal.
-        crystal, crystal_graph = obtain_graph(crystal,name=crystal_name)
+        crystal_graph = obtain_graph(crystal,name=crystal_name)
 
         # 6.5: Get the molecules and the graphs associated with each molecule in the crystal.
         molecules, molecule_graphs, SolventsList, symmetry_operations, cell = process_crystal(crystal,crystal_graph=crystal_graph,take_shortest_distance=True,return_list=False,logger=logger,print_progress=False)
